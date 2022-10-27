@@ -1,0 +1,23 @@
+
+* {
+    border: 2px solid red;
+    padding: 3px;
+}
+
+li {
+    color: white;
+    background-color: red;
+    font-size: 12px;
+    text-align: left;
+    font-weight: bold;
+}
+
+p {
+    background-color: green;
+    color: white;
+    font-size: 18px;
+    text-align: center;
+}
+
+
+
